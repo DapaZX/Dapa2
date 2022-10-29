@@ -3,10 +3,10 @@
 <div align="center">
 <img src="https://telegra.ph/file/3024b63e3b52707d6a696.jpg" alt="jadibot-md" width="300" />
 <p align="center">
- <img src="https://komarev.com/ghpvc/?username=xzeera-id&color=blue&label=Views" />
+ <img src="https://telegra.ph/file/1139eacb233c973c35ddb.jpg" />
  </p>
 </p>
-<h1 align="center">jadibot-md</h1>
+<h1 align="center">BOT WA MD- JADIBOT</h1>
 </div>
 
 ## Sorotan
@@ -62,7 +62,7 @@ WhatsApp Bot Multi Device
 > pkg install git
 > pkg install ffmpeg && pkg install libwebp
 > pkg install nodejs
-> git clone https://github.com/Doramisi1/jadibot-md
+> git clone https://github.com/DapaZX/Dapa2
 > cd jadibot-md
 > npm install
 > npm start
